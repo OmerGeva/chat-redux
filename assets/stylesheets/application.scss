@@ -5,3 +5,15 @@ body {
   margin-top: 20px;
   margin-bottom: 20px;
 }
+.message-list{
+  width: 50%;
+  height: 100vh;
+  background-color: lightgray;
+}
+.message{
+  padding: 8px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 1px solid black;
+}
